@@ -1,0 +1,12 @@
+.section {
+	padding: 2em;
+
+}
+
+.section a {
+	display: block;
+}
+
+.selectable {
+	cursor: pointer;
+}
